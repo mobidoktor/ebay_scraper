@@ -10,7 +10,7 @@ You won't be able to find a better ebay scraping library than this one.
 Plus, it's fully documented and very easy to use.
 
 **Current version**:
-**0.1**: just shops for things at the moment and doesn't use anything but Selinium, 
+**0.1**: just searches for items at the moment and doesn't use anything but Selinium, 
 but I'll add more fuctionality soon.
 
 You'll need to have [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/),
