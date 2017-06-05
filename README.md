@@ -11,7 +11,7 @@ Plus, it's fully documented and very easy to use.
 
 **Current version**:
 **0.1**: just searches for items at the moment and doesn't use anything except Selinium, 
-but I'll add more fuctionality soon.
+but I'll add more functionality soon.
 
 You'll need [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/),
 [Python 3.0](https://www.python.org/downloads/) and [Selenium](https://pypi.python.org/pypi/selenium)
