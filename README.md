@@ -1,5 +1,5 @@
 # ebay_scraper
-An eBay scraper using Selinium, Beautiful Soup and Firebase.
+An eBay scraper using Selinium, Beautiful Soup, Firebase and lxml.
 
 ## Why use ebay_scraper, and not some other eBay scraping library?
 
