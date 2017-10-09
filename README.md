@@ -1,5 +1,5 @@
 # ebay_scraper
-An eBay scraper using Selinium, Beautiful Soup, Firebase and lxml.
+An eBay scraper using Selinium, Beautiful Soup, Firebase and lxml. Intended for use by E-Bay traders to gather data on transactions, automatically bid on desired items, or automate the sales process. May need a little retasking for some of those things.
 
 ## Why use ebay_scraper, and not some other eBay scraping library?
 
@@ -22,7 +22,4 @@ You'll also want lxml parser, [Firefox](https://www.google.co.uk/search?q=instal
 Run with `python3 main.py`.
 
 Note: if you run into problems with the Selinium installation, try using `pip3 install -U selinium`.
-Any other install problems just raise an issue. Also, let me know what you end up doing with yours!
-
-(Note of caution: I wouldn't recommend starting too many of these at once and pointing them
-at a single address unless you want to get your IP blacklisted).
+Any other install problems just raise an issue.
